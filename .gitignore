@@ -75,4 +75,4 @@ texting/media/
 staticfiles/
 
 .cache/
-
+local.py
