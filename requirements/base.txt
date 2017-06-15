@@ -49,3 +49,5 @@ redis>=2.10.5
 
 
 # Your custom requirements go here
+django-twilio==0.8.0
+twilio==6.3.0
